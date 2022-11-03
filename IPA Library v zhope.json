@@ -1466,11 +1466,11 @@
 
         {
             "name": "Horizon Chase 2 - Apple Arcade",
-            "version": "1.0.1",
-            "downloadURL": "https://www.dropbox.com/s/kdxim39o3nzv1vw/Horizon%20Chase%202%201.0.1.ipa?dl=1",
+            "version": "1.0.4",
+            "downloadURL": "https://www.dropbox.com/s/r4ab9kbqqcrtldo/Horizon%20Chase%202%201.0.4.ipa?dl=1",
             "localizedDescription": "Исправлен вылет на сертификате! \n\nЗапускать строго без интернета, иначе получите бесконечную загрузку! В главном меню интернет можно включить!\n\nДобро пожаловать в возрожденную эру аркадных гонок, наполненную современными технологиями. Классический геймплей 90 вернет вашим пальцам то самое ощущение контроля над машиной.",
-            "versionDate": "2022-09-18T15:08:00+0300",
-            "iconURL": "https://i.ibb.co/0G0x8fn/7-B878633-3-C96-4-BC1-8613-B15-E475-CBFDD.jpg",
+            "versionDate": "2022-11-03T23:08:00+0300",
+            "iconURL": "https://i.ibb.co/qNCfPn9/21-BFD99-B-9-E99-43-D0-B0-DD-D5-B801-E57140.jpg",
             "size":  1572864000,
         },
 
