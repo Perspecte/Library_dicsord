@@ -2795,6 +2795,17 @@
 
 
         {
+            "name": "Space Marshals 2",
+            "version": "1.4.7",
+            "downloadURL": "https://www.dropbox.com/s/p3x4cy0mj9hl14x/Space%20Marshals%202%20v1.4.7.ipa?dl=1",
+            "localizedDescription": "В этом тактическом шутере с видом сверху вы берете на себя роль специалиста Бертона, который охотится на опасных преступников по всей галактике.",
+            "versionDate": "2022-11-03T18:10:00+0300",
+            "iconURL": "https://i.ibb.co/XXr0X1r/96-E3-C5-A3-401-B-45-F0-A579-329-A54-ABCBBB.jpg",
+            "size":  693528166,
+        },
+
+
+        {
             "name": "Aloha Browser | Hack",
             "version": "4.3.1",
             "downloadURL": "https://www.dropbox.com/s/v7jjxbolkmk3aso/Aloha%204.3.1.ipa?dl=1",
@@ -3124,7 +3135,7 @@
 		},
 
 
-        {
+      {
             "name": "Opener",
             "version": "1.11.5",
             "downloadURL": "https://www.dropbox.com/s/j7w6m53fqqefa29/Opener%201.11.5.ipa?dl=1",
@@ -3132,6 +3143,17 @@
             "versionDate": "2022-11-02T23:00:00+0300",
             "iconURL": "https://i.ibb.co/hVb031b/195-E72-C8-0-E13-464-B-8429-207584-DA51-B0.jpg",
             "size":  706560,
+        },
+
+
+        {
+            "name": "Stitch.",
+            "version": "0.6",
+            "downloadURL": "https://www.dropbox.com/s/tsz8qj5c3bv7jn5/stitch._0.6_1667487647.ipa?dl=1",
+            "localizedDescription": "❗️Работоспособность Jailbreak/TrollStore❗️ \n\nПопробуйте вышивание, если хотите на некоторое время отвлечься от собственных дел и отдохнуть от появившихся проблем в реальной жизни.",
+            "versionDate": "2022-11-03T18:03:00+0300",
+            "iconURL": "https://i.ibb.co/KL4VpS4/6-B771-A4-E-176-F-4-EBF-8-AE7-F6174-AF6-A8-E4.jpg",
+            "size":  141977190,
         },
 
        
