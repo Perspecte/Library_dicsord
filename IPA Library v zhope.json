@@ -3137,7 +3137,7 @@
 
       {
             "name": "Opener",
-            "version": "1.11.5",
+            "version": "1.11.3",
             "downloadURL": "https://www.dropbox.com/s/j7w6m53fqqefa29/Opener%201.11.5.ipa?dl=1",
             "localizedDescription": "Исправлен вылет на сертификатах! \n\nС приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера! Просто скопируйте нужную ссылку и запустите Opener, чтобы увидеть, какие приложения поддерживают этот формат.",
             "versionDate": "2022-11-02T23:00:00+0300",
@@ -3154,6 +3154,72 @@
             "versionDate": "2022-11-03T18:03:00+0300",
             "iconURL": "https://i.ibb.co/KL4VpS4/6-B771-A4-E-176-F-4-EBF-8-AE7-F6174-AF6-A8-E4.jpg",
             "size":  141977190,
+		},
+
+
+        {
+            "name": "Doom",
+            "version": "3.0.228",
+            "downloadURL": "https://www.dropbox.com/s/e664zzqxxmqoh74/DOOM%203.0.228.ipa?dl=1",
+            "localizedDescription": "Испытайте взрывной прилив адреналина в крови от сумасшедшей перестрелки и заново окунитесь в мир DOOM. Нестареющая игровая классика, играть в которую теперь можно прямо со своего смартфона. ",
+            "versionDate": "2022-11-04T08:53:00+0300",
+            "iconURL": "https://i.ibb.co/1TKyRxf/1-CC95-CDD-2-ACC-4-A8-C-A2-D4-2400-C89-A4-B92.jpg",
+            "size":  285632102,
+        },
+
+
+        {
+            "name": "Doom 2",
+            "version": "3.0.229",
+            "downloadURL": "https://www.dropbox.com/s/38i116fzt5l0bx5/DOOM%20II%203.0.229.ipa?dl=1",
+            "localizedDescription": "Игра представляет собой продолжение всеми любимой игры где вы встретитесь с ужасными демонами и печально известными боссами.",
+            "versionDate": "2022-11-04T08:59:00+0300",
+            "iconURL": "https://i.ibb.co/Mgj6VWP/2-C27-BC66-CF9-C-43-B8-A3-AB-CE075-C507804.jpg",
+            "size":  277662924,
+        },
+
+
+        {
+            "name": "Pixelmator",
+            "version": "2.8.1",
+            "downloadURL": "https://www.dropbox.com/s/5pwxrk22etkeerc/Pixelmator%202.8.1.ipa?dl=1",
+            "localizedDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
+            "versionDate": "2022-11-04T09:23:00+0300",
+            "iconURL": "https://i.ibb.co/MSwfXHK/D5-FF9-E0-E-92-C3-4-E43-966-D-BB42-AC28678-F.jpg",
+            "size":  213594931,
+        },
+
+
+        {
+            "name": "Space Marshals 3 | Hack",
+            "version": "3.1.3",
+            "downloadURL": "https://www.dropbox.com/s/fu3ds3wgj1ab4y5/Marshals%203%203.1.3.ipa?dl=1",
+            "localizedDescription": "Взломаны покупки! «Покупаем» и отказываемся от ввода Apple ID! \n\nПрисоединяйтесь к шумному отряду космических маршалов в их последнем злоключении в космосе.",
+            "versionDate": "2022-11-04T09:53:00+0300",
+            "iconURL": "https://i.ibb.co/9W1WF20/418-EE20-F-A4-D5-4201-9695-D3-C889-FFF910.jpg",
+            "size":  1481763717,
+		},
+
+
+        {
+            "name": "Terraria",
+            "version": "4.4.5",
+            "downloadURL": "https://www.dropbox.com/s/g8e3wkdjbsc40o9/Terraria%204.4.5.ipa?dl=1",
+            "localizedDescription": "Ваши возможности безграничны, в Terraria всё зависит только от Вас! Вы — любитель сражений? Великий архитектор? Коллекционер? Путешественник? Каждому найдётся здесь своё место.",
+            "versionDate": "2022-11-04T10:53:00+0300",
+            "iconURL": "https://i.ibb.co/12kpxHm/89-AB2-D2-E-F272-410-A-9-B4-D-3-C94598-DC6-C7.jpg",
+            "size":  159068979,
+        },
+
+
+        {
+            "name": "Framed",
+            "version": "1.31",
+            "downloadURL": "https://www.dropbox.com/s/lvl71g58kmthl1y/FRAMED%201.31.ipa?dl=1",
+            "localizedDescription": "Повествовательная головоломка, в которой вам предстоит менять местами кадры анимированного комикса, чтобы изменить порядок происходящих событий и добиться альтернативной концовки.",
+            "versionDate": "2022-11-04T10:48:00+0300",
+            "iconURL": "https://i.ibb.co/hRtgnm5/3-D86-E534-5-BB3-4-F84-91-C8-76-A0854-C0-DE5.jpg",
+            "size":  356725555,
         },
 
        
