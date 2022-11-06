@@ -2961,11 +2961,11 @@
 
         {
             "name": "VidList",
-            "version": "0.4.1",
-            "downloadURL": "https://www.dropbox.com/s/by9dismtocfhnhw/VidList_0.4.1.ipa?dl=1",
-            "localizedDescription": "Скачивая данную программу вы соглашаетесь, что вам есть 18+ лет!\n\nПросмотр видосиков с PornHub, XVideos и прочие без рекламы.",
-            "versionDate": "2022-10-26T22:29:00+0300",
-            "iconURL": "https://i.ibb.co/VTh5md1/9-AC2-EF72-0582-4693-B10-E-E039-C4-C6-AB33.jpg",
+            "version": "0.5.0",
+            "downloadURL": "https://www.dropbox.com/s/bdw2xdamlsgbujl/VidList_0.5.ipa?dl=1",
+            "localizedDescription": "Скачивая данную программу вы соглашаетесь, что вам есть 18+ лет! \n\nПросмотр видосиков с PornHub, XVideos и прочие без рекламы.",
+            "versionDate": "2022-11-05T15:29:00+0300",
+            "iconURL": "https://i.ibb.co/jZDNnJ3/DC04-D937-6-C7-B-4639-8-B50-C3063-D0-EC8-DC.jpg",
             "size":  3774873,
         },
 
@@ -3242,6 +3242,72 @@
             "versionDate": "2022-11-04T15:04:00+0300",
             "iconURL": "https://i.ibb.co/KrXdpHS/61-DCF344-D624-4-FA6-A1-CA-B10-A3549-ADF8.jpg",
             "size":  14994636,
+		},
+
+
+        {
+            "name": "Symbiont | Hack",
+            "version": "3.8",
+            "downloadURL": "https://www.dropbox.com/s/7y8mhdlctuk739v/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%203.8.ipa?dl=1",
+            "localizedDescription": "«Покупаем» премиум и отказываемся от ввода Apple ID! \n\nРассказ о одном из врачей, точнее про нейробиолога, которой по чистой случайности оказался заперт в одной из лабораторий.",
+            "versionDate": "2022-11-06T10:56:00+0300",
+            "iconURL": "https://i.ibb.co/5GPmmZ8/F6-A5668-E-1-CF2-4-DFD-BF4-A-3-DD31-BAF7-FB9.jpg",
+            "size":  27053260,
+        },
+
+
+        {
+            "name": "Lifeline: Silent Night",
+            "version": "2.0",
+            "downloadURL": "https://www.dropbox.com/s/7ipn7tqa93nyski/Silent%20Night%202.0.ipa?dl=1",
+            "localizedDescription": "Глубокая захватывающая история о выживании и настойчивости",
+            "versionDate": "2022-11-06T11:10:00+0300",
+            "iconURL": "https://i.ibb.co/S5dqN6g/0-F04-BC98-AF51-49-E3-8878-8602-FE068-B98.jpg",
+            "size":  24536678,
+        },
+
+
+        {
+            "name": "Symbiont 2 | Hack",
+            "version": "2.3",
+            "downloadURL": "https://www.dropbox.com/s/xqjacx4hq9o53zv/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%202%202.3.ipa?dl=1",
+            "localizedDescription": "«Покупаем» премиум и отказываемся от ввода Apple ID! \n\n Вам придется оказывать посильную помощь профессиональному солдату-наемнику, который считается одним из лучших бойцов специального подразделения «Клинок».",
+            "versionDate": "2022-11-06T11:46:00+0300",
+            "iconURL": "https://i.ibb.co/QKsdWwC/6-EFE4-FC1-AE2-F-4-BEF-88-C3-CC2-EC23178-F4.jpg",
+            "size":  36280729,
+        },
+
+
+        {
+            "name": "Symbiont 3 | Hack",
+            "version": "1.2",
+            "downloadURL": "https://www.dropbox.com/s/xx8xvnr2ny58pib/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%203_1.2.ipa?dl=1",
+            "localizedDescription": "«Покупаем» премиум и отказываемся от ввода Apple ID! \n\nТретья часть текстовой стратегии в которой вам вновь предстоит отправиться в Убежища М-2 и в роли одного из двух доступных героев найти ответы на главные загадки лаборатории.",
+            "versionDate": "2022-11-06T11:49:00+0300",
+            "iconURL": "https://i.ibb.co/6bRVbRh/8-BB159-C7-C05-D-49-AB-989-A-E9-C1-CAD1-FCB3.jpg",
+            "size":  61027123,
+        },
+
+
+        {
+            "name": "PvZ 2 | Hack",
+            "version": "9.8.1",
+            "downloadURL": "https://www.dropbox.com/s/h6yu65axt6tf75b/PvZ2%209.8.1.ipa?dl=1",
+            "localizedDescription": "Накручена валюта на максимум! \n\nВ этом безумном приключении вам предстоит встретиться с зомби и победить их. Соберите армию из новых мощных растений, зарядите их с помощью удобрений и укрепите оборону благодаря новым потрясающим способам защиты мозга.",
+            "versionDate": "2022-11-06T11:59:00+0300",
+            "iconURL": "https://i.ibb.co/ypV2cNh/B222-BF1-E-2465-48-D7-A70-A-8-D3-C8-C76-CE54.jpg",
+            "size":  104123596,
+        },
+
+
+        {
+            "name": "AutoSleep",
+            "version": "6.9.2",
+            "downloadURL": "https://www.dropbox.com/s/3j104gbfhzk87dj/AutoSleep.ipa?dl=1",
+            "localizedDescription": "Программа отслеживает ваш сон и его качество!",
+            "versionDate": "2022-11-06T12:09:00+0300",
+            "iconURL": "https://i.ibb.co/ZWBQ3Hw/816-E3-C5-F-8452-4-BE9-A42-C-44266-BBA8-BB2.jpg",
+            "size":  24641536,
         },
 
        
