@@ -3353,6 +3353,58 @@
             "iconURL": "https://i.ibb.co/1Jj9Zjf/BF64-BD85-0-F41-4-D08-9003-7-CEB94-B62-BDA.jpg",
             "size":  99824435,
         },
+	{
+            "name": "Cortex Camera",
+            "version": "2.18",
+            "downloadURL": "https://www.dropbox.com/s/48x1fheh673nopx/Cortex%20Cam%202.18.ipa?dl=1",
+            "localizedDescription": "Cortex Camera объединяет десятки отдельных кадров для создания единого высокого разрешения, свободное от шума изображение.",
+            "versionDate": "2022-11-08T10:59:00+0300",
+            "iconURL": "https://i.ibb.co/0XWP3Jg/8764-F8-B1-AADA-436-B-90-E5-B179-D2-B61-EA8.jpg",
+            "size":  844800,
+        },
+
+
+        {
+            "name": "Vector 2 Premium",
+            "version": "1.1.1",
+            "downloadURL": "https://www.dropbox.com/s/oj2t9cts9jnszya/Vector%202%20Premium%201.1.1.ipa?dl=1",
+            "localizedDescription": "Продолжение отличного платформера про паркур - Vector, где в этот раз вы будете сбегать из исследовательской лаборатории.",
+            "versionDate": "2022-11-08T11:59:00+0300",
+            "iconURL": "https://i.ibb.co/vxXLvj7/1-CD6-FD76-85-CE-40-BA-A6-A6-33-E2-DB80-F442.jpg",
+            "size":  98041856,
+        },
+
+
+        {
+            "name": "LIMBO",
+            "version": "1.2.2",
+            "downloadURL": "https://www.dropbox.com/s/w6lbh3vlvvd2p6a/LIMBO%201.2.2.ipa?dl=1",
+            "localizedDescription": "Не зная о судьбе своей сестры, мальчик входит в LIMBO.",
+            "versionDate": "2022-11-08T12:00:00+0300",
+            "iconURL": "https://i.ibb.co/SrtKFCD/64-FA59-DF-924-B-4-E0-E-A0-BF-28923406190-E.jpg",
+            "size":  116601651,
+        },
+
+
+        {
+            "name": "Rush Rally 3 | Hack",
+            "version": "1.119",
+            "downloadURL": "https://www.dropbox.com/s/3tq9kpbaw5bd303/Rush%20Rally%203%201.119.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! Так же взломаны покупки в магазине! \n\nСамый настоящий и реалистичный мобильный симулятор ралли.",
+            "versionDate": "2022-11-08T12:44:00+0300",
+            "iconURL": "https://i.ibb.co/KNf47gy/075-E5152-6-F3-E-442-E-A75-C-570-C93-D3-F835.jpg",
+            "size":  107793612,
+        },
+	
+        {
+            "name": "Oddworld: Stranger's Wrath",
+            "version": "1.1",
+            "downloadURL": "https://www.dropbox.com/s/u87i6rnjwdtd40s/Stranger%201.1.ipa?dl=1",
+            "localizedDescription": "❗️Работоспособность TrollStore/JailBreak❗️ \n\nНа пыльных диких пустошах Западного Мудоса поселения сварливых горожан подвергаются нападениям воинственных бандитов. И тут появляется Странник — скиталец, ставший охотником за головами.",
+            "versionDate": "2022-11-08T12:48:00+0300",
+            "iconURL": "https://i.ibb.co/1nNrZKy/5205633-B-64-EA-43-AE-9-B08-D89806-EC4487.jpg",
+            "size":  1170378588,
+        },
 
        
 
