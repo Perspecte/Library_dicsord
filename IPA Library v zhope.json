@@ -1,10 +1,10 @@
 {
     "name": "IPA Library",
     "identifier": "ipalibrary",
-    "sourceLinkTitle": "@fcksunction",
+    "sourceLinkTitle": "",
     "sourceAuthor" : "IPA Library",
-    "sourceUrlLink" : "https://t.me/fcksanction",
-    "sourceImage": "https://i.ibb.co/m80R715/719-BBC6-F-FDB1-4-EF9-809-F-703-B07-F4-F9-D9.jpg",
+    "sourceUrlLink" : "",
+    "sourceImage": "",
     "appCategories": [
         "IPA Library Source"
     ],
@@ -2829,10 +2829,10 @@
 
         {
             "name": "Sniper 3D | Hack",
-            "version": "3.53.2",
-            "downloadURL": "https://www.dropbox.com/s/jjc27in5lh1gd3i/Sniper%203D%203.53.2.ipa?dl=1",
+            "version": "4.2.0",
+            "downloadURL": "https://www.dropbox.com/s/01kpvoqb9usp0ku/Sniper3D.ipa?dl=1",
             "localizedDescription": "Монеты при покупке увеличиваются! Энергия бесконечна! \n\nПросто НАКЛОНИТЕ устройство, чтобы прицелиться, и КОСНИТЕСЬ, чтобы выстрелить. Убейте всех плохих парней!",
-            "versionDate": "2022-10-21T17:10:00+0300",
+            "versionDate": "2022-11-08T18:10:00+0300",
             "iconURL": "https://i.ibb.co/Nnv8nVb/4-FD68-B06-E744-438-F-9762-035-F9-DE2-C498.jpg",
             "size":  152987238,
         },
