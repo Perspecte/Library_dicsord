@@ -3430,6 +3430,28 @@
             "size":  74763468,
         },
 
+
+        {
+            "name": "Chess - Play & Learn+ - Apple Arcade",
+            "version": "1.0.3",
+            "downloadURL": "https://www.dropbox.com/s/tggy6majrwkp0n3/Chess%201.0.3.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nВсеми известные шахматы без доната из Apple Arcade!",
+            "versionDate": "2022-11-13T14:43:00+0300",
+            "iconURL": "https://i.ibb.co/wczCpsm/32-E118-E9-FC93-4109-82-FC-250007703151.jpg",
+            "size":  27367833,
+        },
+
+
+        {
+            "name": "Checkers - Apple Arcade",
+            "version": "1.78",
+            "downloadURL": "https://www.dropbox.com/s/3cncfc1tp7y9n1m/Checkers%201.78.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nВсеми известные шашки без доната из Apple Arcade!",
+            "versionDate": "2022-11-13T15:43:00+0300",
+            "iconURL": "https://i.ibb.co/zNWT63x/246431-DD-E42-E-462-C-A841-568-AE6-BCBB2-B.jpg",
+            "size":  55364812,
+        },
+
        
 
      ]
