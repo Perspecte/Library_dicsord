@@ -619,10 +619,10 @@
 
         {
             "name": "Shadow Fight 2 | Hack",
-            "version": "2.22.0",
-            "downloadURL": "https://www.dropbox.com/s/lox9w3w6c9vi8p8/Shadow%20Fight%202%202.22.0.ipa?dl=1",
+            "version": "2.23.0",
+            "downloadURL": "https://www.dropbox.com/s/m5ygklx3zi4se1z/Shadow%20Fight%202%20.ipa?dl=1",
             "localizedDescription": "Взлом на валюту! Теперь взлом происходит автоматически!\n\nЗубодробительная смесь файтинга и РПГ. Вы не просто деретесь в лучших традициях файтингов, но и одеваете своего персонажа, покупаете оружие, повышаете параметры и изучаете новые способности и удары.",
-            "versionDate": "2022-10-16T20:11:00+0300",
+            "versionDate": "2022-11-14T10:11:00+0300",
             "iconURL": "https://i.ibb.co/rMCZPCP/651095-AD-5-C0-C-46-D7-92-E5-6-C897560-FF37.jpg",
             "size":  163682713,
         },
@@ -3450,6 +3450,17 @@
             "versionDate": "2022-11-13T15:43:00+0300",
             "iconURL": "https://i.ibb.co/zNWT63x/246431-DD-E42-E-462-C-A841-568-AE6-BCBB2-B.jpg",
             "size":  55364812,
+        },
+
+
+        {
+            "name": "Solitaire+ - Apple Arcade",
+            "version": "1.2.0",
+            "downloadURL": "https://www.dropbox.com/s/0j0urj49xlegupu/Solitaire%2B%201.2.0.ipa?dl=1",
+            "localizedDescription": "Исправлен вылет на сертификатах! \n\nВсеми известная косынка без доната из Apple Arcade!",
+            "versionDate": "2022-11-14T09:43:00+0300",
+            "iconURL": "https://i.ibb.co/7xc3Sj1/B53-BB995-8326-40-AB-B222-414-A7030-A85-F.jpg",
+            "size":  94686412,
         },
 
        
