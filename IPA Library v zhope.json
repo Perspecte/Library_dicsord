@@ -6,6 +6,72 @@
   "sourceicon": "",
   "apps": [
     {
+      "name": "Touch Retouch",
+      "version": "5.0.13",
+      "versionDate": "2022-11-21",
+      "versionDescription": "Ваше карманное приложение для удаления нежелательных объектов с фото!",
+      "downloadURL": "https://www.dropbox.com/s/4dcy0fdka40noj1/TouchRetouch.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/847eed8b2839b8aec0210b8a53c121bd.png",
+      "tintColor": "",
+      "size": "44459622.4"
+    },
+    {
+      "name": "Device Monitor | Hack",
+      "version": "5.5.1",
+      "versionDate": "2022-11-21",
+      "versionDescription": "«Покупаем» подписку и отказываемся от ввода Apple ID! Программа, что показывает всю информацию о вашей системе!",
+      "downloadURL": "https://www.dropbox.com/s/qxzacvusvy87ofb/Device%20Monitor%205.5.1.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/8dd469759368f234f0fbb107c05d5845.png",
+      "tintColor": "",
+      "size": "16336814.08"
+    },
+    {
+      "name": "Photo Retouch | Hack",
+      "version": "2.0",
+      "versionDate": "2022-11-21",
+      "versionDescription": "Активирована подписка! Редактируйте или кадрируйте свои фото и видео! Огромное количество, среди которых есть удаление ненужных объектов!",
+      "downloadURL": "https://www.dropbox.com/s/i1ye5owtljwk9wg/Photo%20Retouch%202.0.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/a192ddfa8d4c2468d8f9bf85aad78aeb.png",
+      "tintColor": "",
+      "size": "18664652.8"
+    },
+    {
+      "name": "Removal | Hack",
+      "version": "3.7.8",
+      "versionDate": "2022-11-21",
+      "versionDescription": "Активирована подписка! Профессиональное приложение, которое поможет вам убрать нежелательные объекты с фото!",
+      "downloadURL": "https://www.dropbox.com/s/lgcnd7le2wribdz/objectremovalfree%203.7.8.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/2cff6087dc42aa714a96a9eaf6de147c.png",
+      "tintColor": "",
+      "size": "62704844.8"
+    },
+    {
+      "name": "AirBrush | Hack",
+      "version": "4.27.2",
+      "versionDate": "2022-11-21",
+      "versionDescription": "Активирована подписка! Редактируйте снимки в фоторедакторе и получайте совершенные результаты!",
+      "downloadURL": "https://www.dropbox.com/s/a61udnfgjyesy67/AirBrush%204.27.2.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/0d58847b86def4d287b543063b2cba11.png",
+      "tintColor": "",
+      "size": "159037521.92"
+    },
+    {
+      "name": "AutoEdit | Hack",
+      "version": "3.22.0",
+      "versionDate": "2022-11-21",
+      "versionDescription": "Активирована подписка! Хотите сделать великолепно выглядящее из фото и видео? Тогда это приложения для вас!",
+      "downloadURL": "https://www.dropbox.com/s/8g6edjzvoejgm9z/AutoEdit_3.22.0.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221121/9b00dbcc729c74ae280e2f6adb85a826.png",
+      "tintColor": "",
+      "size": "88971673.6"
+    },
+    {
       "name": "ProCCD | Hack",
       "version": "2.2.1",
       "versionDate": "2022-11-19",
@@ -136,6 +202,17 @@
       "iconURL": "http://ipalibrary.ru/uploads/20221119/fbf3ea44d1b3d3791caa3254b15be1a7.png",
       "tintColor": "",
       "size": "11010048"
+    },
+    {
+      "name": "One Night at Flumptys",
+      "version": "1.0.6",
+      "versionDate": "2022-11-19",
+      "versionDescription": "Игра для яблочных девайсов, которая напоминает знаменитую игру Five Nights at Freddy.",
+      "downloadURL": "https://www.dropbox.com/s/joinux2exuq4bca/ONAF1%201.0.6.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "iconURL": "http://ipalibrary.ru/uploads/20221120/b71850796d172b60d90434979b1c5e86.jpeg",
+      "tintColor": "",
+      "size": "42047897.6"
     },
     {
       "name": "Null Music",
